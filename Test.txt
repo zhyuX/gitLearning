@@ -2,3 +2,4 @@ Test Git 1
 git 2
 git 3+
 Now I've created a new branch
+Creating a new branch is quick AND simple.
